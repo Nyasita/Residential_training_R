@@ -21,7 +21,7 @@ write.csv(x = cats, file = "data/feline-data.csv", row.names = FALSE)
 cats[1] #brings first column
 cats[[1]] # brings first column but as a list within a list
 cats$coat # brings values of the coats column as a list
-cats["coat"] #brings contents of the first colum
+cats["coat"] #brings contents of the first column
 cats[1, 1]
 cats[, 1]
 cats[1, ]
