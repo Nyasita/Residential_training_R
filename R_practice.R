@@ -44,4 +44,4 @@ a_matrix__to_50 #the matrix was filled columnwise by default so to change use by
 data_types<-c("logical","double","complex","integer","character")
 data_structures<-c("matrices","dataframes","vectors","arrays","lists")
 data_types_and_structures<-list(data_types,data_structures)
-data_types_and_structures #to view the list
+data_types_and_structures #to view the list created
